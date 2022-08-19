@@ -18,6 +18,17 @@ Analytical and detail-oriented aspiring Full Stack Developer. Capable of writing
 - Chakra UI
 - Tailwind css
 
+## Interests 
+- Travelling new places
+- Learning new things
+- Playing Cricket
+
+# Projects
+
+- [<a href='https://github.com/Md-Irfan-FullStackDeveloper/BeautyBebo-Clone' > BeautyBebo Clone </a>](https://github.com/Md-Irfan-FullStackDeveloper/BeautyBebo-Clone)
+- [<img src='https://user-images.githubusercontent.com/97781422/185040277-2a231b0e-c3ff-4ab1-b713-52f310e9b81f.JPG' alt='img'/>]
+
+
 ## 📫 How to reach me: 
 - Email:- irfanjunaid78081@gmail.com 
 
