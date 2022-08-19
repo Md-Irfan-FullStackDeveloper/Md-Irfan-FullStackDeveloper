@@ -1,6 +1,8 @@
+![Mern](https://user-images.githubusercontent.com/97781422/185549684-8443257c-c202-440f-b506-6993049e941f.jpg)
+
 ## Hi there 👋, 
 
-#My name is Md Irfan
+# I am Md Irfan
 
 ## I am a Full-Stack web developer
 
@@ -16,7 +18,7 @@ Analytical and detail-oriented aspiring Full Stack Developer. Capable of writing
 - Chakra UI
 - Tailwind css
 
-- 📫 How to reach me: 
+## 📫 How to reach me: 
 - Email:- irfanjunaid78081@gmail.com 
 
 
