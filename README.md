@@ -1,5 +1,8 @@
-### Hi there 👋, My name is Md Irfan
-#### I am a Full-Stack web developer
+## Hi there 👋, 
+
+#My name is Md Irfan
+
+## I am a Full-Stack web developer
 ![I am a Full-Stack web developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 Analytical and detail-oriented aspiring Full Stack Developer. Capable of writing production-ready code using JavaScript, React.Js and HTML, CSS on the frontend, NodeJS, and Express on the backend to build single-page applications. Passionate about coding and intensely interested in working in a product-based company.
