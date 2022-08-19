@@ -25,10 +25,16 @@ Analytical and detail-oriented aspiring Full Stack Developer. Capable of writing
 
 # Projects
 
-- [<a href='https://github.com/Md-Irfan-FullStackDeveloper/BeautyBebo-Clone' > BeautyBebo Clone </a>](https://github.com/Md-Irfan-FullStackDeveloper/BeautyBebo-Clone)
+## [<a href='https://github.com/Md-Irfan-FullStackDeveloper/BeautyBebo-Clone' > BeautyBebo Clone </a>](https://github.com/Md-Irfan-FullStackDeveloper/BeautyBebo-Clone)
+
+  This is an E-commerce website which provides the beauty care products of different brands to it's customer.
+  
   <img src='https://user-images.githubusercontent.com/97781422/185040277-2a231b0e-c3ff-4ab1-b713-52f310e9b81f.JPG' alt='img'/>
   
-- [<a href='https://github.com/Md-Irfan-FullStackDeveloper/TheOutnet-Clone'> TheOutnet Clone </a>](https://github.com/Md-Irfan-FullStackDeveloper/TheOutnet-Clone)
+## [<a href='https://github.com/Md-Irfan-FullStackDeveloper/TheOutnet-Clone'> TheOutnet Clone </a>](https://github.com/Md-Irfan-FullStackDeveloper/TheOutnet-Clone)
+   
+   This is an foreign E-commercer website that provides the fashionable clothes and accessories of different brands to their customer at one place.
+   
   <img src='https://user-images.githubusercontent.com/97781422/185416142-d6dbabd8-3d77-4700-b15f-db793bc7570c.JPG' alt='img' />
 
 ## 📫 How to reach me: 
