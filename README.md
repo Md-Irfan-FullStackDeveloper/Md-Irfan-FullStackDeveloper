@@ -9,14 +9,7 @@
 Analytical and detail-oriented aspiring Full Stack Developer. Capable of writing production-ready code using JavaScript, React.Js and HTML, CSS on the frontend, NodeJS, and Express on the backend to build single-page applications. Passionate about coding and intensely interested in working in a product-based company.
 
 ## Skills 🛠️
-- React Js
-- Node Js
-- Express Js
-- MongoDB
-- HTML 
-- CSS
-- Chakra UI
-- Tailwind css
+[![My Skills](https://skills.thijs.gg/icons?i=react,redux,nodejs,mongodb,js,expressjs,html,css,tailwind,chakraui&theme=light)](https://skills.thijs.gg)
 
 ## Interests 
 - Travelling new places
