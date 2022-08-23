@@ -22,7 +22,7 @@ Analytical and detail-oriented aspiring Full Stack Developer. Capable of writing
 ## 📫 How to reach me: 
 - Email:- irfanjunaid78081@gmail.com 
 
-[![My Skills](https://skillicons.dev/icons?i=github&theme=light)](https://github.com/Md-Irfan-FullStackDeveloper)   [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/md-irfan-835202221/)    [![My Skills](https://skillicons.dev/icons?i=netlify&theme=light)]( https://portfoli-md-irfan.netlify.app/) ### Portfolio
+[![My Skills](https://skillicons.dev/icons?i=github&theme=light)](https://github.com/Md-Irfan-FullStackDeveloper)   [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/md-irfan-835202221/)    [![My Skills](https://skillicons.dev/icons?i=netlify&theme=light)]( https://portfoli-md-irfan.netlify.app/)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Md-Irfan-FullStackDeveloper&show_icons=true)  
 
