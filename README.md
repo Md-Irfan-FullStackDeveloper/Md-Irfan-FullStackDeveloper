@@ -11,6 +11,9 @@ Analytical and detail-oriented aspiring Full Stack Developer. Capable of writing
 ## Skills 🛠️
 [![My Skills](https://skills.thijs.gg/icons?i=react,redux,nodejs,mongodb,js,expressjs,html,css,tailwind,materialui,sass,ts&theme=light)](https://skills.thijs.gg)
 
+## Resume 
+- <a href='https://drive.google.com/file/d/1SwW9H_IcdjYjSgYPhKlbnVzXQs4P3rgY/view?usp=sharing'> Download </a>
+
 ## Interests 
 - Travelling new places
 - Learning new things
@@ -19,7 +22,7 @@ Analytical and detail-oriented aspiring Full Stack Developer. Capable of writing
 ## 📫 How to reach me: 
 - Email:- irfanjunaid78081@gmail.com 
 
-[![My Skills](https://skillicons.dev/icons?i=github&theme=light)](https://github.com/Md-Irfan-FullStackDeveloper) [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/md-irfan-835202221/)  [![My Skills](https://skillicons.dev/icons?i=netlify&theme=light)]( https://portfoli-md-irfan.netlify.app/)
+[![My Skills](https://skillicons.dev/icons?i=github&theme=light)](https://github.com/Md-Irfan-FullStackDeveloper)   [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/md-irfan-835202221/)    [![My Skills](https://skillicons.dev/icons?i=netlify&theme=light)]( https://portfoli-md-irfan.netlify.app/) ### Portfolio
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Md-Irfan-FullStackDeveloper&show_icons=true)  
 
