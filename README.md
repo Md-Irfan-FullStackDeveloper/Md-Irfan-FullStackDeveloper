@@ -19,13 +19,7 @@ Analytical and detail-oriented aspiring Full Stack Developer. Capable of writing
 ## 📫 How to reach me: 
 - Email:- irfanjunaid78081@gmail.com 
 
-[![My Skills](https://skillicons.dev/icons?i=github&theme=light)](https://github.com/Md-Irfan-FullStackDeveloper)[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/md-irfan-835202221/)[![My Skills](https://skillicons.dev/icons?i=netlify&theme=light)]( https://portfoli-md-irfan.netlify.app/)
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Md-Irfan-FullStackDeveloper)  
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' color='blue' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-irfan-835202221/)  
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>]( https://portfoli-md-irfan.netlify.app/)  
+[![My Skills](https://skillicons.dev/icons?i=github&theme=light)](https://github.com/Md-Irfan-FullStackDeveloper) [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/md-irfan-835202221/)  [![My Skills](https://skillicons.dev/icons?i=netlify&theme=light)]( https://portfoli-md-irfan.netlify.app/)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Md-Irfan-FullStackDeveloper&show_icons=true)  
 
