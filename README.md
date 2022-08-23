@@ -9,7 +9,7 @@
 Analytical and detail-oriented aspiring Full Stack Developer. Capable of writing production-ready code using JavaScript, React.Js and HTML, CSS on the frontend, NodeJS, and Express on the backend to build single-page applications. Passionate about coding and intensely interested in working in a product-based company.
 
 ## Skills 🛠️
-[![My Skills](https://skills.thijs.gg/icons?i=react,redux,nodejs,mongodb,js,expressjs,html,css,tailwind,sass,ts&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=react,redux,nodejs,mongodb,js,expressjs,html,css,tailwind,materialui,sass,ts&theme=light)](https://skills.thijs.gg)
 
 ## Interests 
 - Travelling new places
@@ -19,6 +19,7 @@ Analytical and detail-oriented aspiring Full Stack Developer. Capable of writing
 ## 📫 How to reach me: 
 - Email:- irfanjunaid78081@gmail.com 
 
+[![My Skills](https://skillicons.dev/icons?i=github&theme=light)](https://github.com/Md-Irfan-FullStackDeveloper)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Md-Irfan-FullStackDeveloper)  
 
