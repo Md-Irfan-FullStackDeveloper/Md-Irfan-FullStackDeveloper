@@ -14,7 +14,7 @@ Analytical and detail-oriented aspiring Full Stack Developer. Capable of writing
 ## Resume 
 - <a href='https://drive.google.com/file/d/1SwW9H_IcdjYjSgYPhKlbnVzXQs4P3rgY/view?usp=sharing'> Download </a>
 
-## Portfolio [![My Skills](https://skillicons.dev/icons?i=netlify&theme=light)]( https://portfoli-md-irfan.netlify.app/)
+## <a href='https://md-irfan-fullstackdeveloper.github.io/'>Portfolio</a> 
 
 ## Interests 
 - Travelling new places
